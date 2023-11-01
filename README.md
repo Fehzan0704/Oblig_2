@@ -1,5 +1,5 @@
 # Oblig_2
 
-1. Jeg valgte case 1, "Predict stock market price for TESLA".
-2. Jeg valgte regresjons-algoritmer. Grunnen til at jeg tenker at denne blir det beste valget, er fordi vi er ute etter en spesifik verdi, og trenger ikke å gruppere i kategorier.
+1. I choose case 1, "Predict stock market price for TESLA".
+2. The algorithm of chocie will be regression. One of the reasons I decided on this algorithm is because we are only looking for a single value, and have no need to categorize into groups. 
 3. 
